@@ -1,0 +1,33 @@
+{
+  "name": "thelasthalcyon",
+  "version": "1.0.0",
+  "description": "Is this gonna happen",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgrinker/TheLastHalcyon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgrinker/TheLastHalcyon/issues"
+  },
+  "homepage": "https://github.com/cgrinker/TheLastHalcyon#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.6",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^8.3.3",
+    "next": "^13.1.1",
+    "react-icons": "^4.7.1",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.26"
+  }
+}
