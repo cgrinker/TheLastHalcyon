@@ -1,4 +1,4 @@
-# Design Docs
+# Design Docs SPOILERS AHEAD
 
 ## Overview
 * Ten Songs on the album
