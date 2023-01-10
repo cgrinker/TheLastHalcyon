@@ -8,7 +8,7 @@ export function MenuBar() {
     const { colorMode, toggleColorMode } = useColorMode();
     const theme = useTheme();
     const bg = useColorModeValue("vaporwave.purple", "vaporwave.violet");
-
+   
     return (
         <Box bgColor={bg} alignItems="center" display="flex" justifyContent={"space-between"} h="80px" w="100%">
             <Box flex="1" pl="1em">
