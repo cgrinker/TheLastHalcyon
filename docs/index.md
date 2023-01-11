@@ -77,12 +77,11 @@
 
 ### Chapter Eight: The Ascent
 * Bad guys show up again
-* Aarush gives her the ultimatum. She chooses the BCI
-* He gets her to some space elevator
+* Aarush dies getting her onto the her to some space elevator
 * She goes up and gets the surgery
 
 ### Chapter Nine: Inception
-* Homie comes back, Aarush doesn't want to be with her anymore
+
 * She sims the relationship over and over with the BCI
 * Falls asleep, imply she's stuck in the matrix
 
